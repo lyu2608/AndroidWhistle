@@ -1,0 +1,11 @@
+{
+  "capabilities": {
+    "fullReset": true,
+    "platformName": "platformInfo[0]",
+    "platformVersion": "platformInfo[1]",
+    "automationName": "UiAutomator2",
+    "app": "D:/Documentation/MyDoca/Projects/AndroidWhistle/whistle-1.0-1-5602-stage-release.apk",
+    "deviceName": "Nexus_5_API_28"
+  }
+}
+
