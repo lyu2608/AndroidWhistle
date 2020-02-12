@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Mon Feb 10 18:48:47 EET 2020","Mon Feb 10 18:49:10 EET 2020","22688","Stage1","Android","tests.LoginTest","tests.LoginTest","testLogin","testLogin",""

@@ -1,0 +1,43 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "BackEnd-3",
+    "children" : [ {
+      "name" : "16188@BackEnd-3.TestNG-tests-1(16)",
+      "children" : [ {
+        "name" : "testLogin",
+        "uid" : "8ddb8114b4f16d5e",
+        "parentUid" : "40c8e9b70f828ba0fe21f9cbca14c955",
+        "status" : "broken",
+        "time" : {
+          "start" : 1581353045146,
+          "stop" : 1581353067790,
+          "duration" : 22644
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "android.conf.json", "Nexus_5_API_28", "Android 9.0", "http://0.0.0.0:4723/wd/hub", "8103" ]
+      } ],
+      "uid" : "40c8e9b70f828ba0fe21f9cbca14c955"
+    }, {
+      "name" : "1544@BackEnd-3.TestNG-tests-1(16)",
+      "children" : [ {
+        "name" : "testLogin",
+        "uid" : "266d107541daf2a8",
+        "parentUid" : "a38979dc9b40f2d8931c9d46f5f61d43",
+        "status" : "broken",
+        "time" : {
+          "start" : 1581353327395,
+          "stop" : 1581353350083,
+          "duration" : 22688
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "android.conf.json", "Nexus_5_API_28", "Android 9.0", "http://0.0.0.0:4723/wd/hub", "8103" ]
+      } ],
+      "uid" : "a38979dc9b40f2d8931c9d46f5f61d43"
+    } ],
+    "uid" : "2e0b8d42773492c2d98d39c08d64e9f3"
+  } ]
+}

@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Can't locate an element by this strategy: By.xpath: //android.widget.FrameLayout[1]/android.widget.LinearLayout/android.widget.TextView[@text='Events screen']",
+      "children" : [ {
+        "name" : "testLogin",
+        "uid" : "266d107541daf2a8",
+        "parentUid" : "3429ba556155e56bf97a6adc224544b8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1581353327395,
+          "stop" : 1581353350083,
+          "duration" : 22688
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "android.conf.json", "Nexus_5_API_28", "Android 9.0", "http://0.0.0.0:4723/wd/hub", "8103" ]
+      } ],
+      "uid" : "3429ba556155e56bf97a6adc224544b8"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}
