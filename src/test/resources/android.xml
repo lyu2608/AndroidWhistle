@@ -20,13 +20,14 @@
         </groups>-->
 
         <classes>
-            <class name="tests.LoginTest"/>
+<!--            <class name="tests.LoginTest"/>-->
             <class name="tests.LoginTest">
                 <!--            <class name="context.LanguageFactory">-->
-                <!-- <methods>
-                     <include name="testPictureBlock" />
-                 </methods>-->
+                 <methods>
+                     <include name="testLoginNegative" />
+                 </methods>
             </class>
+
         </classes>
     </test>
 

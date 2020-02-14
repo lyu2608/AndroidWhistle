@@ -27,6 +27,7 @@ dependencies {
     compile group: 'com.browserstack', name: 'browserstack-local-java', version: '1.0.2'
     compile group: 'io.qameta.allure', name: 'allure-testng', version: '2.13.1'
     compile group: 'org.aspectj', name: 'aspectjweaver', version: '1.9.5'
+    compile group: 'com.automation-remarks', name: 'video-recorder-junit', version: '1.+'
 }
 
 task androidApp(type: Test) {

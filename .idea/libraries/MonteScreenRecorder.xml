@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MonteScreenRecorder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MonteScreenRecorder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
